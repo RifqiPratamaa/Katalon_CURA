@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "C0BFF00E8A5F1895BC4EE2B730C33522",
+  "keywordClasses": [
+    {
+      "name": "keyword",
+      "keywordMethods": [
+        {
+          "name": "accessUrl",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

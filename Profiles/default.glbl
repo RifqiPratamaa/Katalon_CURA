@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
+      <name>urlWebCURA</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'John Doe'</initValue>
+      <name>userDemo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ThisIsNotAPassword'</initValue>
+      <name>passDemo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'05/04/2025'</initValue>
+      <name>appointmentDate</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Tokyo / Hongkong / Seoul CURA Healthcare Center</description>
+      <initValue>'Hongkong CURA Healthcare Center'</initValue>
+      <name>appointmentFacility</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Medicare / Medicaid / None</description>
+      <initValue>'Medicaid'</initValue>
+      <name>appointmentHealthcareProgram</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Please Accept. I am unwell'</initValue>
+      <name>appointmentComment</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>true / false</description>
+      <initValue>true</initValue>
+      <name>appointmentReadmission</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

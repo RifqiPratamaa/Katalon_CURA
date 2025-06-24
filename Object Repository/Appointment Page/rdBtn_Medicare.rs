@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rdBtn_medicare</name>
+   <tag></tag>
+   <elementGuidId>20198f83-7609-4e3d-a5ae-a78ff7470fcf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'radio_program_medicare']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicare</value>
+      <webElementGuid>941d9a19-fc78-4668-8483-5be5eb4ef88d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@id='radio_program_medicare']</value>
+      <webElementGuid>13257fb3-dd63-4e4b-98a6-8f30a810c8a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

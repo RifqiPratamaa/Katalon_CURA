@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C52526AC44794A15656ECF4B6A765195",
+  "keywordClasses": [
+    {
+      "name": "HealthCare_Program",
+      "keywordMethods": [
+        {
+          "name": "clickRdBtn",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rdBtn_medicaID</name>
+   <tag></tag>
+   <elementGuidId>4e42ac20-8532-4a9b-973e-e2c206633424</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'radio_program_medicaid']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicaid</value>
+      <webElementGuid>3b81cb46-4f72-4d2c-8bcb-3060cd2868e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@id='radio_program_medicaid']</value>
+      <webElementGuid>61cffa48-f9f7-435c-90ad-8fe799f77fa1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

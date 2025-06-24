@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "2469F0A451F636F69A372316DDB20B4D",
+  "keywordClasses": [
+    {
+      "name": "rdBtn_hCProgram",
+      "keywordMethods": [
+        {
+          "name": "accessUrl",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
